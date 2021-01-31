@@ -1,0 +1,41 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+
+h1{
+    margin:0% 0% 0% 33%;
+}
+
+.cel{
+    width:10%;
+    height:10%;
+    margin:2% 0% 1% 45%;
+}
+
+table{
+    font-family: Verdana;
+    width:490px;
+    height:90px;
+    margin:0% 0% 0% 33%;
+    padding:5px;
+}
+
+table th{
+    background-color:#007FFF;
+    height:40px;
+    width:200px;
+    text-align:left;
+    color:white;
+}
+
+tbody{
+    font-size:15px;
+    background-color:#CCC;
+    width: 280px;
+}
+
+td{
+    height:35px;
+    padding:0px 0px 0px 3px;
+}
