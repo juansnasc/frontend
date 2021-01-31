@@ -1,0 +1,51 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+
+a,h1{
+  font-family: 'Dancing Script',cursive;
+}
+
+a{
+  text-decoration: none;
+  font-family:'Architects Daughter', cursive;
+}
+
+a:visited{
+  color:black;
+}
+
+table{
+  font-size:20px;
+  margin:3% 0% 0% 23%;
+  width:50%;
+  height:320px;
+  text-align:center;
+}
+
+thead{
+  background-color:rgb(185, 179, 179);
+  font-size:20px;
+  text-align: center;
+  font-style: normal;
+  font-family:'Comfortaa', cursive; 
+}
+
+thead td{
+  padding:5px;
+}
+
+tbody{
+  font-family:'Architects Daughter', cursive;
+}
+
+tbody tr:hover{
+  background-color: rgb(240, 239, 239);/*#EEE*/
+}
+
+footer img{
+  width:12%;
+  height:10%;
+  margin:5% 0% 0% 40%;
+}
